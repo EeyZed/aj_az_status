@@ -5,5 +5,5 @@
 - Fivem
 - RP HUD
 - ESX
-- Download And Put It In New Folder And Then Rename Folder To status Then Put in Your Resources And Then Start it And Add start status In Your Server.cfg
+- Download And Put It In New Folder And Then Rename Folder To aj_az_status Then Put in Your Resources And Then Start it And Add start status In Your Server.cfg
 - support : https://discord.gg/HdzdzVh
