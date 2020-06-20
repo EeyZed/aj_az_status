@@ -1,7 +1,7 @@
 $(document).ready(function(){
   var nimmug = document.getElementsByClassName('mugshotpos')[0].getBoundingClientRect();
 
-  $.post('http://status/setmugpos', JSON.stringify({
+  $.post('http://aj_az_status/setmugpos', JSON.stringify({
     y: nimmug.y/window.innerHeight,
     x: nimmug.x/window.innerWidth,
     w: nimmug.width/window.innerWidth,
